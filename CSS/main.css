@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  background: #fff; }
+
+h1 {
+  text-align: left;
+  margin: 0;
+  padding: 2%;
+  color: #06002e; }
+
+header {
+  display: block;
+  float: right;
+  padding: 10px;
+  background-color: black;
+  color: white;
+  width: 100%; }
+  header ul {
+    display: block; }
+    header ul li {
+      list-style: none;
+      float: right;
+      display: inline-block;
+      padding: 10px 10px;
+      text-transform: uppercase; }
+      header ul li a.a {
+        text-decoration: none;
+        color: white; }
+        header ul li a.a:hover {
+          color: #ccc;
+          transition: 0.2s, ease-in-out; }
+
+p {
+  padding: 1rem;
+  font-size: 15px;
+  color: black;
+  background: #FAFAFA;
+  border-radius: 20px; }
+  p:hover {
+    color: #06002e; }
+
+h3 {
+  font-family: Gothic;
+  padding: 1rem;
+  text-align: center;
+  line-height: 38px; }
+
+h5 {
+  text-align: center;
+  padding: 3%; }
+
+footer {
+  background-color: black; }
+
+.p1 {
+  border: noneb;
+  background: none;
+  padding: 4px;
+  text-align: center; }
+
+#section1 {
+  background-color: #ecfff;
+  padding: 0px 1%; }
+
+#section3 {
+  background: linear-gradient(to left, #fff, #ccc); }
+
+.div1:hover {
+  background: #06002e; }
+
+.div2 {
+  padding: 2%; }
+
+.div3 {
+  padding: 2%; }
+
+.div4 {
+  padding: 3%; }
+
+.div5 {
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right, #ffff, #cccc);
+  color: #06002e;
+  tex-align: left; }
+
+.div6 {
+  margin: auto;
+  display: block;
+  text-transform: uppercase;
+  width: 15%;
+  margin-bottom: 2%;
+  background: #d3d3d3;
+  border: none;
+  color: #06002e; }
+
+.div7 {
+  padding: 2% 12%; }
+
+.div8 {
+  display: block;
+  margin: auto; }
+
+.div9 {
+  padding: 4%;
+  color: white;
+  display: block;
+  margin: auto; }
+  .div9 ul {
+    padding: 0; }
+  .div9 li {
+    list-style: none;
+    text-align: center; }
+    .div9 li a {
+      text-decoration: none;
+      margin: 0;
+      line-height: 15px;
+      color: #ccc; }
+      .div9 li a:hover {
+        color: grey; }
+
+.col3 {
+  padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 2px 2px solid #ccc;
+  background-color: #FAFAFA;
+  margin-top: 3%; }
+
+.col6 {
+  background-image: url("assetspexels-harrisonhaines-7286083.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.col7 {
+  margin-top: 3%; }
+
+.col-random {
+  padding: 0; }
+
+/*# sourceMappingURL=main.css.map */
