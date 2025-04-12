@@ -35,7 +35,7 @@ A responsive and creative web project built using **Bootstrap**. This project de
 
 Here’s a glimpse of the layout:
 
-![Demo](https://raw.githubusercontent.com/eritech98/random_bootstrap_project/main/screenshot.png)
+![Demo](https://raw.githubusercontent.com/eritech98/random_bootstrap_project/main/assets/screenshot1.PNG)
 
 
 
