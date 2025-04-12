@@ -1,6 +1,6 @@
 # 🎲 Random Bootstrap Project
 
-![Project Screenshot](https://raw.githubusercontent.com/eritech98/random_bootstrap_project/main/screenshot.PNG)
+![Project Screenshot](https://raw.githubusercontent.com/eritech98/random_bootstrap_project/main/assets/screenshot.PNG)
 
 A responsive and creative web project built using **Bootstrap**. This project demonstrates dynamic layouts, sleek styling, and interactive components. It's ideal for showcasing frontend design skills and creativity.
 
